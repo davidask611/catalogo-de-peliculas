@@ -40,7 +40,7 @@
   font-size: 24px; /* Tamaño del texto */
 }
 .pelis{
-  border: solid red;
+  /* border: solid red; */
   margin-top:50px;
   display: grid;
   grid-template-columns: repeat(2 ,1fr);
@@ -48,14 +48,14 @@
   column-gap: 10px; */
 }
 .pelis_pelicula{
-  border: solid yellow;
+  /* border: solid yellow; */
   margin: auto;
   padding: 10px;
 }
 .pelis_pelicula .pelis_imagen{
   width: 100%;
   height: 200px;
-  border: solid green;
+  /* border: solid green; */
   background: url(img_peli.jpeg) no-repeat;
   background-size: contain;
   background-position: center;
